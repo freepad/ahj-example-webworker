@@ -12,4 +12,5 @@
 ![CI](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/web.yml/badge.svg)
 ```
 Заменить `<OWNER>` на ваш ник на github;
+
 Заменить `<REPOSITORY>` на название вашего репозитория;
